@@ -1,11 +1,11 @@
 import './App.css';
-import Navbar from './Components/Navbar/Navbar';
 import About from './components/About/About';
 import BlurBlob from './components/BlurBlob';
 import Contact from './components/Contact/Contact';
 import Education from './components/Education/Education';
 import Experience from './components/Experience/Experience';
 import Footer from './components/Footer/Footer';
+import Navbar from './components/Navbar/Navbar';
 import Project from './components/Project/Project';
 import Skills from './components/Skills/Skills';
 
