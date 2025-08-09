@@ -12,7 +12,7 @@ Designed with modern UI principles, smooth animations, and clean code.
 ---
 
 ## 🚀 Live Demo
-🔗 [View Portfolio Live](portfolio-1e9b.vercel.app)
+🔗 [View Portfolio Live](https://portfolio-1e9b-aayush-kumar-singhs-projects-8907742d.vercel.app/)
 
 ---
 
