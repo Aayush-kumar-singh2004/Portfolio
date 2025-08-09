@@ -29,7 +29,7 @@ import vscodeLogo from './assets/tech_logo/vscode.png';
 
 // Education Section Logo's
 import andhra_logo from './assets/education_logo/andhra_logo.jpg';
-import khalsa_logo from './assets/education_logo/khalsa_Logo.jpg';
+import khalsa_logo from './assets/education_logo/khalsa_logo.jpg';
 import svist_logo from './assets/education_logo/svist_logo.jpg';
 
 //ABOUT SKILLS INFORMATION
