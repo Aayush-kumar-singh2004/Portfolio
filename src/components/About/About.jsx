@@ -39,11 +39,7 @@ const About = () => {
 
           {/* Paragraph */}
           <p className="text-white text-base leading-relaxed">
-            I am a Full-Stack developer with over 1 Year of experience in
-            building scalable web applications. Skilled in both frontend and
-            backend development, I specialize in the MERN stack and other modern
-            technologies to create seamless user experiences and effective
-            solutions.
+           I’m a Full-Stack Developer specializing in the MERN stack. I enjoy working on both the frontend and backend, building scalable and user-friendly web applications. I’m passionate about problem-solving, learning new technologies, and creating solutions that make a real impact.
           </p>
 
           {/* Resume Button */}
